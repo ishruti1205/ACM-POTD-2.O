@@ -19,7 +19,7 @@ Each file contains:
 All solutions are uploaded in the form of **Markdown (.md) files** as required by the event guidelines.
 
 ## 📌 Daily Progress
-Day 1: A. Letter
+Day 1: A. Letter  
 Day 2:   
 Day 3:   
 Day 4:   
