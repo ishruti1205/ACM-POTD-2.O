@@ -21,7 +21,7 @@ All solutions are uploaded in the form of **Markdown (.md) files** as required b
 ## 📌 Daily Progress
 Day 1: Letter  
 Day 2: Flag    
-Day 3:   
+Day 3: Second Order Statistics  
 Day 4:   
 Day 5:   
 
