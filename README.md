@@ -23,7 +23,7 @@ Day 1: Letter
 Day 2: Flag    
 Day 3: Second Order Statistics  
 Day 4: Reconnaissance  
-Day 5:   
+Day 5: Borze  
 Day 6:   
 Day 7:   
 Day 8:   
