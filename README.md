@@ -22,9 +22,14 @@ All solutions are uploaded in the form of **Markdown (.md) files** as required b
 Day 1: Letter  
 Day 2: Flag    
 Day 3: Second Order Statistics  
-Day 4:   
+Day 4: Reconnaissance  
 Day 5:   
-
+Day 6:   
+Day 7:   
+Day 8:   
+Day 9:   
+Day 10:  
+  
 ## 🔗 Useful Links
 * My CodeForces Profile: https://codeforces.com/profile/ishruti1205
 * ACM IGDTUW POTD 2.O Website: https://acm-test-kohl.vercel.app/event/autumn-2026-cf
