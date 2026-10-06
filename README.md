@@ -25,7 +25,7 @@ Day 3: Second Order Statistics
 Day 4: Reconnaissance  
 Day 5: Borze  
 Day 6: Reconnaissance 2  
-Day 7:   
+Day 7: Army  
 Day 8:   
 Day 9:   
 Day 10:  
