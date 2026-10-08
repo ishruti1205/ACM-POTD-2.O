@@ -26,7 +26,7 @@ Day 4: Reconnaissance
 Day 5: Borze  
 Day 6: Reconnaissance 2  
 Day 7: Army  
-Day 8:   
+Day 8: Translation  
 Day 9:   
 Day 10:  
   
