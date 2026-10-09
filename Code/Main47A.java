@@ -43,9 +43,9 @@ Input 2:
 Output 2:
 NO
 
-Input 1:
+Input 3:
 3
 
-Output 1:
+Output 3:
 YES
 */

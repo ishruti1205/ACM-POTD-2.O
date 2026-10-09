@@ -28,8 +28,13 @@ Day 6: Reconnaissance 2
 Day 7: Army  
 Day 8: Translation  
 Day 9: Triangular numbers  
-Day 10:  
-  
+Day 10: Sleuth  
+Day 11:   
+Day 12:   
+Day 13:     
+Day 14:   
+Day 15:   
+
 ## 🔗 Useful Links
 * My CodeForces Profile: https://codeforces.com/profile/ishruti1205
 * ACM IGDTUW POTD 2.O Website: https://acmigdtuw.vercel.app/event/autumn-2026-cf
