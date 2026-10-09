@@ -27,12 +27,12 @@ Day 5: Borze
 Day 6: Reconnaissance 2  
 Day 7: Army  
 Day 8: Translation  
-Day 9:   
+Day 9: Triangular numbers  
 Day 10:  
   
 ## 🔗 Useful Links
 * My CodeForces Profile: https://codeforces.com/profile/ishruti1205
-* ACM IGDTUW POTD 2.O Website: https://acm-test-kohl.vercel.app/event/autumn-2026-cf
+* ACM IGDTUW POTD 2.O Website: https://acmigdtuw.vercel.app/event/autumn-2026-cf
 * Official ACM IGDTUW Website: https://acmigdtuw.github.io/acmigdtuw/
 
 ### ⭐ Consistency over intensity — solving one problem every day!
