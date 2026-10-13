@@ -31,7 +31,7 @@ Day 9: Triangular numbers
 Day 10: Sleuth  
 Day 11: Domino piling  
 Day 12: Word  
-Day 13:     
+Day 13: Petya and Strings    
 Day 14:   
 Day 15:   
 
